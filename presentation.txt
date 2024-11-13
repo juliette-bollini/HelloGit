@@ -1,0 +1,5 @@
+Nom: Bollini
+Prénom: Juliette
+Sexe: Feminin
+Age: 20 ans 
+Taille: 170 cm
